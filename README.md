@@ -1,1 +1,6 @@
+Our client, The Gaming Room, is interested in expanding their Android game, Draw It Or Lose It, to other platforms. To do this, they want to move the game to a web-based platform. 
+In creating the software design document, I provide several options on how they could implement their plan. I believe the best part of my documentation is the evaluation portion. It provides a clear view of what platforms will deliver what the customer is wanting. 
+Mostly, I don’t have anything that needs major revision. I would like to go through the entire document and revise small things to better convey the message being given. 
+One must always have the client’s needs at the forefront of the application design. They drive the project both through the expectation of the final project and very importantly, financially. Therefore, their view must be forefront, even if sometimes that view can be questionable. 
+We were not tasked with creating the program, so I don’t have a design approach for that need. If I were creating the program, I would work from the UML to lay out classes and start building functionality from that guide. Once the program was built, I would create the access by role to secure the game. 
 
